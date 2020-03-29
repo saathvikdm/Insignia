@@ -3,6 +3,8 @@ A website developed for the Web-A-Thon conducted by ACM Club of VVCE.
 
 
 ------------------Requirements------------------
+
+
 Pages : Home/About/Events/Gallery/Team/Contact
 
 Home : Nav Bar, Slider and Social Media Links
